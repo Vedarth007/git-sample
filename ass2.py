@@ -1,0 +1,1 @@
+print("ASS2 python")
